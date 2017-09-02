@@ -62,6 +62,7 @@
     <Compile Include="Algorytmy\RSA\AlgorytmyBudowyRSA\RSAImplementacje\RSAVersionA.cs" />
     <Compile Include="Algorytmy\RSA\AlgorytmyBudowyRSA\SzybkiePotegowanie\ISzybkiePotegowanie.cs" />
     <Compile Include="Algorytmy\RSA\AlgorytmyBudowyRSA\SzybkiePotegowanie\PotegowanieModularne.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Komunikacja\IKlient.cs" />
     <Compile Include="Komunikacja\ISerwer.cs" />
     <Compile Include="Komunikacja\Klient.cs" />
