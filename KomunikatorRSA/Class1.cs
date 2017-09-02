@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace KomunikatorRSA
 {
-    class Class1
+    class Class1123
     {
+        
     }
 }
